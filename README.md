@@ -14,7 +14,7 @@
 - [GIS Programming with Python](#gis-programming-with-python)
 
 ## Intro
-This repository compiles resources that will take a motivated user from GIS noob to a proficient GIS Developer. The wiki articles are organized by skill level and meant to be progressed through subsequentially. This was highly inspired by [Open Source Society University](https://github.com/ossu/computer-science#introduction-to-computer-science).
+This repository compiles resources that will take a motivated user from GIS noob to a proficient GIS Developer. The sections articles are organized by skill level and meant to be progressed through subsequentially. This was highly inspired by [Open Source Society University](https://github.com/ossu/computer-science#introduction-to-computer-science).
 
 Resources mostly come from highly effective and free cources as well as blog posts and tutorials. There is a mixture of proprietary (ESRI) and open-source materials.
 
