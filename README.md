@@ -54,6 +54,6 @@ Learn how to write scripts to perform GIS analyses and automate repetetive tasks
 | [Automating GIS Processes](https://automating-gis-processes.github.io/CSC18/)                         | Medium | GDAL, OGR, GeoPandas, Shapely, QGIS     |
 
 ##### Recommended  
-| Course                                                                                             | GIS Software                                                        | Difficulty |
+| Course                                                                                             | Difficulty                                                        | GIS Software |
 |----------------------------------------------------------------------------------------------------|---------------------------------------------------------------------|------------|
 | [GEOG 489: Advanced Python Programming for GIS](https://www.e-education.psu.edu/geog489/node/1776) | Medium  | ArcPy, Jupyter Notebook, Esri ArcGIS API for Python, QGIS, GDAL/OGR    |
