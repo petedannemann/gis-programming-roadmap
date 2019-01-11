@@ -29,8 +29,7 @@ ArcMap and ArcPro are proprietary desktop software for performing GIS analysis d
 ##### QGIS
 The most commonly used open source desktop software. It is free to download and has a wide array of plugins that let you do just about anything with GIS.
 
-| Courses (Choose one)                                                                                               | Open Source / Proprietary | Difficulty |   |   |
-|--------------------------------------------------------------------------------------------------------------------|---------------------------|------------|---|---|
-| [Getting to Know ArcPro](https://esripress.esri.com/display/index.cfm?fuseaction=display&websiteID=229&moduleID=0) | Proprietary               | Easy       |   |   |
-| [Official QGIS Tutorial](https://docs.qgis.org/2.8/en/docs/training_manual/foreword/index.html)                    | Open Source               | Easy       |   |   |
-
+| Courses (Choose one)                                                                                               | Open Source / Proprietary | Difficulty |
+|--------------------------------------------------------------------------------------------------------------------|---------------------------|------------|
+| [Getting to Know ArcPro](https://esripress.esri.com/display/index.cfm?fuseaction=display&websiteID=229&moduleID=0) | Proprietary               | Easy       |
+| [Official QGIS Tutorial](https://docs.qgis.org/2.8/en/docs/training_manual/foreword/index.html)                    | Open Source               | Easy       |
