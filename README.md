@@ -23,14 +23,14 @@ If you've taken an intro to GIS course or used GIS in the workplace for more tha
 
 Choose one of desktop softwares below and run through the associated course to get up to speed. This will take about 40 hours and will give you a great foundation in GIS. 
 
-### ArcMap / ArcPro
+##### ArcMap / ArcPro
 ArcMap and ArcPro are proprietary desktop software for performing GIS analysis distributed by ESRI. These are the most widely used in the industry and learning them is the safest bet at dipping your feet into the industry. Getting to Know ArcPro comes with a free one-year ArcPro license and is well worth the money if you are serious about entering the field. If you take an intro to GIS course through a college, chances are you'll run through this book as a majority of your course work.
 
-### QGIS
+##### QGIS
 The most commonly used open source desktop software. It is free to download and has a wide array of plugins that let you do just about anything with GIS.
 
-| Courses (Choose one) | Open Source / Proprietary | Difficulty
-| ------------- |
-| [Getting to Know ArcPro](https://esripress.esri.com/display/index.cfm?fuseaction=display&websiteID=299&moduleID=0) ($40) | Proprietary | Easy |
-|[Official QGIS Tutorial](https://docs.qgis.org/2.8/en/docs/training_manual/foreword/index.html) | Open Source | Easy |
+| Courses (Choose one)                                                                                               | Open Source / Proprietary | Difficulty |   |   |
+|--------------------------------------------------------------------------------------------------------------------|---------------------------|------------|---|---|
+| [Getting to Know ArcPro](https://esripress.esri.com/display/index.cfm?fuseaction=display&websiteID=229&moduleID=0) | Proprietary               | Easy       |   |   |
+| [Official QGIS Tutorial](https://docs.qgis.org/2.8/en/docs/training_manual/foreword/index.html)                    | Open Source               | Easy       |   |   |
 
