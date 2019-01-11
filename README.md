@@ -43,7 +43,7 @@ Learn basics of programming. How much you enjoy one of these courses may be a go
 | Courses (Choose One)                                                                                                                                        | Difficulty | Languages                              |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|----------------------------------------|
 | [Introduction to Computer Science and Programming using Python](https://www.edx.org/course/introduction-to-computer-science-and-programming-using-python-0) | Medium     | Python                                 |
-| https://online-learning.harvard.edu/course/cs50-introduction-computer-science                                                                               | Hard       | C, PHP, JavaScript, SQL, CSS, and HTML |
+| [CS50: Introduction to Computer Science](https://online-learning.harvard.edu/course/cs50-introduction-computer-science)                                                                               | Hard       | C, PHP, JavaScript, SQL, CSS, and HTML |
 
 ## GIS Programming with Python
 Learn how to write scripts to perform GIS analyses and automate repetetive tasks with Python.
