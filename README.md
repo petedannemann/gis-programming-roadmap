@@ -9,6 +9,8 @@
 
 ## Table of Contents
 - [Intro](#intro)
+- [GIS Fundamentals](#gis-fundamentals)
+- [Intro to CS](#intro-to-cs)
 
 ## Intro
 This repository compiles resources that will take a motivated user from GIS noob to a proficient GIS Developer. The wiki articles are organized by programming language and broken down by subcategories and skill levels. This was highly inspired by [Open Source Society University](https://github.com/ossu/computer-science#introduction-to-computer-science)
@@ -33,3 +35,11 @@ The most commonly used open source desktop software. It is free to download and 
 |--------------------------------------------------------------------------------------------------------------------|---------------------------|------------|
 | [Getting to Know ArcPro](https://esripress.esri.com/display/index.cfm?fuseaction=display&websiteID=229&moduleID=0) | Proprietary               | Easy       |
 | [Official QGIS Tutorial](https://docs.qgis.org/2.8/en/docs/training_manual/foreword/index.html)                    | Open Source               | Easy       |
+
+## Intro to CS
+Learn basics of programming. How much you enjoy one of these courses may be a good indicator of your success in programming.
+
+| Courses (Choose One)                                                                                                                                        | Difficulty | Languages                              |
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|----------------------------------------|
+| [Introduction to Computer Science and Programming using Python](https://www.edx.org/course/introduction-to-computer-science-and-programming-using-python-0) | Medium     | Python                                 |
+| https://online-learning.harvard.edu/course/cs50-introduction-computer-science                                                                               | Hard       | C, PHP, JavaScript, SQL, CSS, and HTML |
