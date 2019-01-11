@@ -32,10 +32,10 @@ ArcMap and ArcPro are proprietary desktop software for performing GIS analysis d
 ##### QGIS
 The most commonly used open source desktop software. It is free to download and has a wide array of plugins that let you do just about anything with GIS.
 
-| Courses (Choose one)                                                                                               | Open Source / Proprietary | Difficulty |
-|--------------------------------------------------------------------------------------------------------------------|---------------------------|------------|
-| [Getting to Know ArcPro](https://esripress.esri.com/display/index.cfm?fuseaction=display&websiteID=229&moduleID=0) | Proprietary               | Easy       |
-| [Official QGIS Tutorial](https://docs.qgis.org/2.8/en/docs/training_manual/foreword/index.html)                    | Open Source               | Easy       |
+| Courses (Choose one)                                                                                                     | Difficulty | GIS Software |
+|--------------------------------------------------------------------------------------------------------------------------|------------|--------------|
+| [Getting to Know ArcPro](https://esripress.esri.com/display/index.cfm?fuseaction=display&websiteID=229&moduleID=0) ($40) | Easy       | ArcPro       |
+| [Official QGIS Tutorial](https://docs.qgis.org/2.8/en/docs/training_manual/foreword/index.html)                          | Easy       | QGIS         |
 
 ## Intro to CS
 Learn basics of programming. How much you enjoy one of these courses may be a good indicator of your success in programming.
@@ -48,10 +48,10 @@ Learn basics of programming. How much you enjoy one of these courses may be a go
 ## GIS Programming with Python
 Learn how to write scripts to perform GIS analyses and automate repetetive tasks with Python.
 
-| Courses (Choose One)                                                                                  | GIS Software                        | Difficulty |
+| Courses (Choose One)                                                                                  | Difficulty                        | GIS Software |
 |-------------------------------------------------------------------------------------------------------|-------------------------------------|------------|
-| [GEOG 485: GIS Programming and Software Development](https://www.e-education.psu.edu/geog485/node/91) | ArcGIS / ArcPy                      | Medium     |
-| [Automating GIS Processes](https://automating-gis-processes.github.io/CSC18/)                         | GDAL, OGR, GeoPandas, Shapely, QGIS | Medium     |
+| [GEOG 485: GIS Programming and Software Development](https://www.e-education.psu.edu/geog485/node/91) | Medium                | ArcGIS / ArcPy     |
+| [Automating GIS Processes](https://automating-gis-processes.github.io/CSC18/)                         | Medium | GDAL, OGR, GeoPandas, Shapely, QGIS     |
 
 ##### Recommended  
 | Course                                                                                             | GIS Software                                                        | Difficulty |
