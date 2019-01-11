@@ -13,6 +13,7 @@
 - [Intro to CS](#intro-to-cs)
 - [GIS Programming with Python](#gis-programming-with-python)
 - [Databases & SQL](#databases-&-sql)
+- [Spatial SQL](#spatial-sql)
 
 ## Intro
 This repository compiles resources that will take a motivated user from GIS noob to a proficient GIS Developer. The sections articles are organized by skill level and meant to be progressed through subsequentially. This was highly inspired by [Open Source Society University](https://github.com/ossu/computer-science#introduction-to-computer-science).
@@ -67,3 +68,12 @@ Learn how to query data, make tables and views, and perform data analysis with d
 | [SQL Zoo](https://sqlzoo.net/)                                                                        | SQL Server, Oracle, MySQL, DB2,  and  PostgreSQL | Medium     |
 | [Stanford - Introduction to Databases](https://lagunita.stanford.edu/courses/DB/2014/SelfPaced/about) | Unknown                                          | Hard       |
 | [CS145: Data Management and Data Systems](https://cs145-fa18.github.io/course_info.html)              | Google BigQuery                                  | Hard       |
+
+# Spatial SQL
+Learn how to store GIS data and manipulate it in a database.
+
+| Courses (Choose one)                                                                                                                    | Database Engine      | Difficulty |
+|-----------------------------------------------------------------------------------------------------------------------------------------|----------------------|------------|
+| [GEOG 868 - Spatial Database Management](https://www.e-education.psu.edu/spatialdb/node/1776)                                           | PostgreSQL / PostGIS | Medium     |
+| [Boundless - Intro to PostGIS](https://web.archive.org/web/20170913113658/http://workshops.boundlessgeo.com/postgis-intro/welcome.html) | PostgreSQL / PostGIS | Medium     |
+| [CS145: Data Management and Data Systems](https://cs145-fa18.github.io/course_info.html)                                                | Google BigQuery      | Hard       |
