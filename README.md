@@ -3,7 +3,9 @@
   <img src="https://gisgeography.com/wp-content/uploads/2016/03/gis-programming-in-python-678x322.png" alt="Image of Coding">
 </p>
 
-<center>**Under development**</center>
+<p align="justify">
+  <strong>Under development</strong>
+</p>
 
 ## Table of Contents
 - [Intro](#intro)
