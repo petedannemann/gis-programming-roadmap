@@ -56,4 +56,4 @@ Learn how to write scripts to perform GIS analyses and automate repetetive tasks
 ##### Recommended  
 | Course                                                                                             | GIS Software                                                        | Difficulty |
 |----------------------------------------------------------------------------------------------------|---------------------------------------------------------------------|------------|
-| [GEOG 489: Advanced Python Programming for GIS](https://www.e-education.psu.edu/geog489/node/1776) | ArcPy, Jupyter Notebook, Esri ArcGIS API for Python, QGIS, GDAL/OGR | Medium     |
+| [GEOG 489: Advanced Python Programming for GIS](https://www.e-education.psu.edu/geog489/node/1776) | Medium  | ArcPy, Jupyter Notebook, Esri ArcGIS API for Python, QGIS, GDAL/OGR    |
