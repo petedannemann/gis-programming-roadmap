@@ -69,7 +69,7 @@ Learn how to query data, make tables and views, and perform data analysis with d
 | [Stanford - Introduction to Databases](https://lagunita.stanford.edu/courses/DB/2014/SelfPaced/about) | Unknown                                          | Hard       |
 | [CS145: Data Management and Data Systems](https://cs145-fa18.github.io/course_info.html)              | Google BigQuery                                  | Hard       |
 
-# Spatial SQL
+## Spatial SQL
 Learn how to store GIS data and manipulate it in a database.
 
 | Courses (Choose one)                                                                                                                    | Database Engine      | Difficulty |
