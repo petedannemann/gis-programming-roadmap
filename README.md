@@ -1,13 +1,13 @@
 # Definitive Guide to GIS Programming
+<p align="center">
+  ![Image of Coding](https://gisgeography.com/wp-content/uploads/2016/03/gis-programming-in-python-678x322.png)
+</p>
 
-![Image of Coding](https://gisgeography.com/wp-content/uploads/2016/03/gis-programming-in-python-678x322.png)
-
-**Under development**
+<center><b>Under development</b></center>
 
 ## Table of Contents
 - [Intro](#intro)
 
-<a name="intro"/>
 ## Intro
 This repository compiles resources that will take a motivated user from GIS noob to a proficient GIS Developer. The wiki articles are organized by programming language and broken down by subcategories and skill levels. This was highly inspired by [Open Source Society University](https://github.com/ossu/computer-science#introduction-to-computer-science)
 
