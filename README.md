@@ -53,7 +53,7 @@ Learn how to write scripts to perform GIS analyses and automate repetetive tasks
 | [GEOG 485: GIS Programming and Software Development](https://www.e-education.psu.edu/geog485/node/91) | Medium                | ArcGIS / ArcPy     |
 | [Automating GIS Processes](https://automating-gis-processes.github.io/CSC18/)                         | Medium | GDAL, OGR, GeoPandas, Shapely, QGIS     |
 
-##### Recommended  
+##### Recommended - Continuation of GIS 485 
 | Course                                                                                             | Difficulty                                                        | GIS Software |
 |----------------------------------------------------------------------------------------------------|---------------------------------------------------------------------|------------|
 | [GEOG 489: Advanced Python Programming for GIS](https://www.e-education.psu.edu/geog489/node/1776) | Medium  | ArcPy, Jupyter Notebook, Esri ArcGIS API for Python, QGIS, GDAL/OGR    |
