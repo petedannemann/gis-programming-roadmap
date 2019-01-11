@@ -1,9 +1,9 @@
 # Definitive Guide to GIS Programming
 <p align="center">
-  ![Image of Coding](https://gisgeography.com/wp-content/uploads/2016/03/gis-programming-in-python-678x322.png)
+  <img src="https://gisgeography.com/wp-content/uploads/2016/03/gis-programming-in-python-678x322.png" alt="Image of Coding">
 </p>
 
-<center><b>Under development</b></center>
+<center>**Under development**</center>
 
 ## Table of Contents
 - [Intro](#intro)
