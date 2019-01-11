@@ -11,9 +11,10 @@
 - [Intro](#intro)
 - [GIS Fundamentals](#gis-fundamentals)
 - [Intro to CS](#intro-to-cs)
+- [GIS Programming with Python](#gis-programming-with-python)
 
 ## Intro
-This repository compiles resources that will take a motivated user from GIS noob to a proficient GIS Developer. The wiki articles are organized by programming language and broken down by subcategories and skill levels. This was highly inspired by [Open Source Society University](https://github.com/ossu/computer-science#introduction-to-computer-science)
+This repository compiles resources that will take a motivated user from GIS noob to a proficient GIS Developer. The wiki articles are organized by skill level and meant to be progressed through subsequentially. This was highly inspired by [Open Source Society University](https://github.com/ossu/computer-science#introduction-to-computer-science).
 
 Resources mostly come from highly effective and free cources as well as blog posts and tutorials. There is a mixture of proprietary (ESRI) and open-source materials.
 
@@ -43,3 +44,16 @@ Learn basics of programming. How much you enjoy one of these courses may be a go
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|----------------------------------------|
 | [Introduction to Computer Science and Programming using Python](https://www.edx.org/course/introduction-to-computer-science-and-programming-using-python-0) | Medium     | Python                                 |
 | https://online-learning.harvard.edu/course/cs50-introduction-computer-science                                                                               | Hard       | C, PHP, JavaScript, SQL, CSS, and HTML |
+
+## GIS Programming with Python
+Learn how to write scripts to perform GIS analyses and automate repetetive tasks with Python.
+
+| Courses (Choose One)                                                                                  | GIS Software                        | Difficulty |
+|-------------------------------------------------------------------------------------------------------|-------------------------------------|------------|
+| [GEOG 485: GIS Programming and Software Development](https://www.e-education.psu.edu/geog485/node/91) | ArcGIS / ArcPy                      | Medium     |
+| [Automating GIS Processes](https://automating-gis-processes.github.io/CSC18/)                         | GDAL, OGR, GeoPandas, Shapely, QGIS | Medium     |
+
+##### Recommended  
+| Course                                                                                             | GIS Software                                                        | Difficulty |
+|----------------------------------------------------------------------------------------------------|---------------------------------------------------------------------|------------|
+| [GEOG 489: Advanced Python Programming for GIS](https://www.e-education.psu.edu/geog489/node/1776) | ArcPy, Jupyter Notebook, Esri ArcGIS API for Python, QGIS, GDAL/OGR | Medium     |
