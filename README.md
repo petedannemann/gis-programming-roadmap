@@ -12,6 +12,7 @@
 - [GIS Fundamentals](#gis-fundamentals)
 - [Intro to CS](#intro-to-cs)
 - [GIS Programming with Python](#gis-programming-with-python)
+- [Databases & SQL](#databases-&-sql)
 
 ## Intro
 This repository compiles resources that will take a motivated user from GIS noob to a proficient GIS Developer. The sections articles are organized by skill level and meant to be progressed through subsequentially. This was highly inspired by [Open Source Society University](https://github.com/ossu/computer-science#introduction-to-computer-science).
@@ -57,3 +58,12 @@ Learn how to write scripts to perform GIS analyses and automate repetetive tasks
 | Course                                                                                             | Difficulty                                                        | GIS Software |
 |----------------------------------------------------------------------------------------------------|---------------------------------------------------------------------|------------|
 | [GEOG 489: Advanced Python Programming for GIS](https://www.e-education.psu.edu/geog489/node/1776) | Medium  | ArcPy, Jupyter Notebook, Esri ArcGIS API for Python, QGIS, GDAL/OGR    |
+
+## Databases & SQL
+Learn how to query data, make tables and views, and perform data analysis with databases.
+
+| Courses (Choose one)                                                                                  | Database Engine                                  | Difficulty |
+|-------------------------------------------------------------------------------------------------------|--------------------------------------------------|------------|
+| [SQL Zoo](https://sqlzoo.net/)                                                                        | SQL Server, Oracle, MySQL, DB2,  and  PostgreSQL | Medium     |
+| [Stanford - Introduction to Databases](https://lagunita.stanford.edu/courses/DB/2014/SelfPaced/about) | Unknown                                          | Hard       |
+| [CS145: Data Management and Data Systems](https://cs145-fa18.github.io/course_info.html)              | Google BigQuery                                  | Hard       |
