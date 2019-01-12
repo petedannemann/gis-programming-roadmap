@@ -64,7 +64,7 @@ Learn how to use popular data analysis libraries in Python such as Numpy and Pan
 | [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)                          | Medium     |
 | [Python for Data Analysis](https://www.amazon.com/Python-Data-Analysis-Wrangling-IPython/dp/1449319793) ($28) | Medium     |
 | [Dataquest](https://www.dataquest.io/) ($23 - $50 / month)                                                    | Medium     |
-| [Data Camp](https://www.datacamp.com/) ($25 - $30 / month                                                     | Medium     |
+| [Data Camp](https://www.datacamp.com/) ($25 - $30 / month)                                                    | Medium     |
 | [Brandon Rhoades Pandas Tutorial](https://www.youtube.com/watch?v=5JnMutdy6Fw&feature=youtu.be)               | Medium     |
 
 ## GIS Programming with Python
@@ -132,11 +132,18 @@ Learn how to add maps to your web applications.
 |--------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|--------------------------------------------------|
 | [GEOG 863 - Web Application Development for Geospatial Professionals](https://www.e-education.psu.edu/geog863/node/1776) | Easy                                           | HTML, CSS, Javascript, ArcGIS Javascript API    |
 | [GEOG 585: Open Web Mapping](https://www.e-education.psu.edu/geog585/node/508)                                           | Medium                                        | QGIS, GDAL, OGR, GeoServer, TileMill, Leaflet    |
+##### Recommend Course
+- [GEOG 865: Cloud and Server GIS](https://www.e-education.psu.edu/geog865/node/25) - Requires an ArcGIS Enterprise Account and an active credit card to register for AWS free tier.
+
 ##### Additional Tutorials
 - [Offical Leaflet Tutorial](https://leafletjs.com/examples.html)
 - [MapTime Boston Leaflet Tutorial](https://maptimeboston.github.io/leaflet-intro/)
 - [MIT Leaflet Workshop](http://duspviz.mit.edu/web-map-workshop/leaflet-js/)
 - [MIT Leaflet with PostGIS, NodeJS, and Express Workshop](http://duspviz.mit.edu/web-map-workshop/leaflet_nodejs_postgis/)
+
+##### Reading (Required)
+- [ArcGIS REST API Documentation](https://developers.arcgis.com/documentation/core-concepts/rest-api/)
+- [ArcGIS: Publishing a map service](http://enterprise.arcgis.com/en/server/latest/get-started/windows/tutorial-publishing-a-map-service.htm)
 
 ## Front End Libraries
 Learn how to make modern web applications using front end libraries.
