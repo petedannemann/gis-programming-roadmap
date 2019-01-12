@@ -76,12 +76,14 @@ Learn how to write scripts to perform GIS analyses and automate repetetive tasks
 | [GEOG 485: GIS Programming and Software Development](https://www.e-education.psu.edu/geog485/node/91) | Medium                | ArcGIS / ArcPy     |
 | [Automating GIS Processes](https://automating-gis-processes.github.io/2018/)                         | Medium | GDAL, OGR, GeoPandas, Shapely, QGIS     |
 
-##### Recommended Additional Course
+##### Recommended Additional Courses
 - [GEOG 489: Advanced Python Programming for GIS](https://www.e-education.psu.edu/geog489/node/1776)
+- [Python for GIS Progression Path](https://github.com/AlexArcPy/python-for-gis-progression-path)
 
 ##### Readings (Optional)
 - [Python Scripting for ArcGIS](https://esripress.esri.com/display/index.cfm?fuseaction=display&websiteID=276&moduleID=0) (ESRI)
 - [Geoprocessing with Python](https://www.manning.com/books/geoprocessing-with-python) (Open Source)
+- [GeoPySpark](https://github.com/locationtech-labs/geopyspark)
 
 ## Databases
 Learn how to query data, make tables and views, and perform data analysis with databases.
