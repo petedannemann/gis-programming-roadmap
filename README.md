@@ -21,9 +21,9 @@
 - [Front End Libraries](#front-end-libraries)
 
 ## Intro
-This repository lays out and path with detailed resources that will take a motivated user from someone to doesn't know what GIS is to a proficient GIS Developer. The sections articles are organized by skill level and meant to be progressed through subsequentially. This was highly inspired by [Open Source Society University](https://github.com/ossu/computer-science#introduction-to-computer-science).
+This repository lays out a path to take someone with no GIS experience to a proficient GIS Developer. The sections are organized by skill level and meant to be progressed through subsequentially. This was highly inspired by [Open Source Society University](https://github.com/ossu/computer-science#introduction-to-computer-science).
 
-Resources mostly come from highly effective and free cources as well as blog posts and tutorials. There is a mixture of proprietary (ESRI) and open-source materials.
+Resources mostly come from highly effective and free courses as well as blog posts and tutorials. There is a mixture of proprietary (ESRI) and open-source materials.
 
 Please feel free to contribute and correct any errors that I inevitably will make.
 
