@@ -105,33 +105,33 @@ Learn how to store GIS data and manipulate it in a database.
 ## Version Control
 Learn how to manage projects using version control.
 
-| Resource (Choose one)                                      | Software | Difficulty |
-|------------------------------------------------------------|----------|------------|
-| [Offical Documentation](https://git-scm.com/doc)           | Git      | Medium     |
-| [Offical Resources](https://try.github.io/)                | Git      | Medium     |
-| [Git Tutorial by Atlassian](https://www.atlassian.com/git) | Git      | Medium     |
+| Resource (Choose one)                                      | Difficulty | Software   |
+|------------------------------------------------------------|------------|------------|
+| [Offical Documentation](https://git-scm.com/doc)           | Medium     | Git        |
+| [Offical Resources](https://try.github.io/)                | Medium     | Git        |
+| [Git Tutorial by Atlassian](https://www.atlassian.com/git) | Medium     | Git        |
 
 ## Web Development Fundamentals
 Learn the basics of web development. It's very important to do this before trying to jump into web GIS.
 
 | Courses (Choose one)                                                                                                            | Languages                             | Difficulty |
 |---------------------------------------------------------------------------------------------------------------------------------|---------------------------------------|------------|
-| [CS50: Web Programming with Python and JavaScript](https://www.edx.org/course/cs50s-web-programming-with-python-and-javascript) | Python, HTML, CSS, Javascript, SQL    | Medium     |
-| [Colt Steele's Web Developer Bootcamp](https://www.udemy.com/the-web-developer-bootcamp/)                                       | Node.js, HTML, CSS, Javascript, NoSQL | Medium     |
-| [The Odin Project](https://www.theodinproject.com/)                                                                             | Ruby, HTML, CSS, Javascript           | Medium     |
+| [CS50: Web Programming with Python and JavaScript](https://www.edx.org/course/cs50s-web-programming-with-python-and-javascript) |  Medium     | Python, HTML, CSS, Javascript, SQL        |
+| [Colt Steele's Web Developer Bootcamp](https://www.udemy.com/the-web-developer-bootcamp/)                                       | Medium     | Node.js, HTML, CSS, Javascript, NoSQL     |
+| [The Odin Project](https://www.theodinproject.com/)                                                                             | Medium     | Ruby, HTML, CSS, Javascript               |
 
 ##### Recommended - Continuation of Colt Steele's Web Developer Bootcamp
 | Courses (Choose one)                                                                                        | Languages                                  | Difficulty |
 |-------------------------------------------------------------------------------------------------------------|--------------------------------------------|------------|
-| [Colt Steele's Advanced Web Developer Bootcamp](https://www.udemy.com/the-advanced-web-developer-bootcamp/) | Javascript, NoSQL (MongoDB), React / Redux | Medium     |
+| [Colt Steele's Advanced Web Developer Bootcamp](https://www.udemy.com/the-advanced-web-developer-bootcamp/) | Medium | Javascript, NoSQL (MongoDB), React / Redux     |
 
 ## Web GIS
 Learn how to add maps to your web applications.
 
-| Courses (Choose one)                                                                                                     | Languages / Frameworks                        | Difficulty |
-|--------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|------------|
-| [GEOG 863 - Web Application Development for Geospatial Professionals](https://www.e-education.psu.edu/geog863/node/1776) | HTML, CSS, Javascript, ArcGIS Javascript API  | Easy       |
-| [GEOG 585: Open Web Mapping](https://www.e-education.psu.edu/geog585/node/508)                                           | QGIS, GDAL, OGR, GeoServer, TileMill, Leaflet | Medium     |
+| Courses (Do both)                                                                                                        | Languages / Frameworks                         | Difficulty |
+|--------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|--------------------------------------------------|
+| [GEOG 863 - Web Application Development for Geospatial Professionals](https://www.e-education.psu.edu/geog863/node/1776) | Easy                                          | HTML, CSS, Javascript, ArcGIS Javascript API     |
+| [GEOG 585: Open Web Mapping](https://www.e-education.psu.edu/geog585/node/508)                                           | Medium                                        |   QGIS, GDAL, OGR, GeoServer, TileMill, Leaflet  |
 
 ## Front End Libraries
 Learn how to make modern web applications using front end libraries.
