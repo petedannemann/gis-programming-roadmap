@@ -60,11 +60,12 @@ Learn how to use popular data analysis libraries in Python such as Numpy and Pan
 
 | Resource (Choose one)                                                                                         | Difficulty |
 |---------------------------------------------------------------------------------------------------------------|------------|
-| [Brandon Rhoades Pandas Tutorial](https://www.youtube.com/watch?v=5JnMutdy6Fw&feature=youtu.be)               | Medium     |
+| [Geo Python](https://geo-python.github.io/2018/)                                                              | Medium     |
+| [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)                          | Medium     |
 | [Python for Data Analysis](https://www.amazon.com/Python-Data-Analysis-Wrangling-IPython/dp/1449319793) ($28) | Medium     |
 | [Dataquest](https://www.dataquest.io/) ($23 - $50 / month)                                                    | Medium     |
 | [Data Camp](https://www.datacamp.com/) ($25 - $30 / month                                                     | Medium     |
-| [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)                          | Medium     |
+| [Brandon Rhoades Pandas Tutorial](https://www.youtube.com/watch?v=5JnMutdy6Fw&feature=youtu.be)               | Medium     |
 
 ## GIS Programming with Python
 Learn how to write scripts to perform GIS analyses and automate repetetive tasks with Python.
