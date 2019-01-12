@@ -160,7 +160,7 @@ Learn how to make modern web applications using front end libraries.
 Front end development is such a broad topic that I'm just going to link to the brilliant frontend section of the [2018 Web Developer Roadmap](https://codeburst.io/the-2018-web-developer-roadmap-826b1b806e8d). You will have picked up most of these skills already by now but getting comfortable with package managers, build tools, state management, CSS preprocessors, and front end testing will put you at a great place for front end development.
 
 ## Backend Web Development
-Learn how to serve data to a client with a backend server. Backend GIS development is pretty much exclusively done in .Net Core (C#). There are some GIS Flask (Python) and Java applications, but C# definitely casts the widest net.
+Learn how to serve data to a client with a backend server. Almost all of the backend GIS development job postings I've seen require .Net Core (C#). I've seen a few GIS projects using Flask, Django (Python) and Java, but C# definitely seems to be the dominant force here.
 
 Backend development is such a broad topic that I'm just going to link to the brilliant backend section of the [2018 Web Developer Roadmap](https://codeburst.io/the-2018-web-developer-roadmap-826b1b806e8d). 
 
