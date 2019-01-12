@@ -114,7 +114,7 @@ Learn how to manage projects using version control.
 ## Web Development Fundamentals
 Learn the basics of web development. It's very important to do this before trying to jump into web GIS.
 
-| Courses (Choose one)                                                                                                            | Languages                             | Difficulty |
+| Courses (Choose one)                                                                                                            | Difficulty                             | Languages |
 |---------------------------------------------------------------------------------------------------------------------------------|---------------------------------------|------------|
 | [CS50: Web Programming with Python and JavaScript](https://www.edx.org/course/cs50s-web-programming-with-python-and-javascript) |  Medium     | Python, HTML, CSS, Javascript, SQL        |
 | [Colt Steele's Web Developer Bootcamp](https://www.udemy.com/the-web-developer-bootcamp/)                                       | Medium     | Node.js, HTML, CSS, Javascript, NoSQL     |
