@@ -132,6 +132,11 @@ Learn how to add maps to your web applications.
 |--------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|--------------------------------------------------|
 | [GEOG 863 - Web Application Development for Geospatial Professionals](https://www.e-education.psu.edu/geog863/node/1776) | Easy                                           | HTML, CSS, Javascript, ArcGIS Javascript API    |
 | [GEOG 585: Open Web Mapping](https://www.e-education.psu.edu/geog585/node/508)                                           | Medium                                        | QGIS, GDAL, OGR, GeoServer, TileMill, Leaflet    |
+##### Additional Tutorials
+- [Offical Leaflet Tutorial](https://leafletjs.com/examples.html)
+- [MapTime Boston Leaflet Tutorial](https://maptimeboston.github.io/leaflet-intro/)
+- [MIT Leaflet Workshop](http://duspviz.mit.edu/web-map-workshop/leaflet-js/)
+- [MIT Leaflet with PostGIS, NodeJS, and Express Workshop](http://duspviz.mit.edu/web-map-workshop/leaflet_nodejs_postgis/)
 
 ## Front End Libraries
 Learn how to make modern web applications using front end libraries.
