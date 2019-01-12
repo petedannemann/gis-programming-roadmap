@@ -16,6 +16,7 @@
 - [Databases](#databases)
 - [Spatial SQL](#spatial-sql)
 - [Version Control](#version-control)
+- [ETL](#etl)
 - [Web Development Fundamentals](#web-development-fundamentals)
 - [Web GIS](#web-gis)
 - [Front End Libraries](#front-end-libraries)
@@ -118,6 +119,24 @@ Learn how to manage projects using version control.
 | [Offical Documentation](https://git-scm.com/doc)           | Medium     | Git        |
 | [Offical Resources](https://try.github.io/)                | Medium     | Git        |
 | [Git Tutorial by Atlassian](https://www.atlassian.com/git) | Medium     | Git        |
+
+## ETL
+Learn how to extract, transform, and load data.
+
+| Courses                                                                                            | Skill Taught                              | Difficulty |
+|----------------------------------------------------------------------------------------------------|-------------------------------------------|------------|
+| [Dataquest Data Engineer Path](https://www.dataquest.io/path/data-engineer) ($24.50 - $50 / month) | Database Optimizing, ETL, Task Management | Hard       |
+| [FME Workbench Tutorials](https://knowledge.safe.com/page/tutorials)                               | FME, Spatial ETL                          | Medium     |
+
+##### Additional Resources
+- [Petl Documentation](https://petl.readthedocs.io/en/stable/)
+- [Geopetl](https://github.com/rbrtmrtn/geopetl)
+- [Using Python Script for Data ETL](https://codeburst.io/using-python-script-for-data-etl-53138c567906)
+- [A Beginner's Guide to Data Engineering](https://medium.com/@rchang/a-beginners-guide-to-data-engineering-part-i-4227c5c457d7)
+
+##### Reading (optional)
+- [Airflow Documentation](https://airflow.apache.org/)
+- [Luigi Documentation](https://luigi.readthedocs.io/en/stable/)
 
 ## Web Development Fundamentals
 Learn the basics of web development. It's very important to do this before trying to jump into web GIS.
