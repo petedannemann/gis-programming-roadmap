@@ -14,6 +14,7 @@
 - [GIS Programming with Python](#gis-programming-with-python)
 - [Databases & SQL](#databases-&-sql)
 - [Spatial SQL](#spatial-sql)
+- [Version Control](#version-control)
 - [Web Development Fundamentals](#web-development-fundamentals)
 - [Web GIS](#web-gis)
 - [Front End Libraries](#front-end-libraries)
@@ -42,6 +43,9 @@ The most commonly used open source desktop software. It is free to download and 
 | [Getting to Know ArcPro](https://esripress.esri.com/display/index.cfm?fuseaction=display&websiteID=229&moduleID=0) ($40) | Easy       | ArcPro       |
 | [Official QGIS Tutorial](https://docs.qgis.org/2.8/en/docs/training_manual/foreword/index.html)                          | Easy       | QGIS         |
 
+##### Reading (Optional)
+[GIS Fundamentals: GIS Fundamentals: A First Text on Geographic Information Systems](https://www.amazon.com/GIS-Fundamentals-Geographic-Information-Systems/dp/0971764735)
+
 ## Intro to CS
 Learn basics of programming. How much you enjoy one of these courses may be a good indicator of your success in programming.
 
@@ -49,7 +53,6 @@ Learn basics of programming. How much you enjoy one of these courses may be a go
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|----------------------------------------|
 | [Introduction to Computer Science and Programming using Python](https://www.edx.org/course/introduction-to-computer-science-and-programming-using-python-0) | Medium     | Python                                 |
 | [CS50: Introduction to Computer Science](https://online-learning.harvard.edu/course/cs50-introduction-computer-science)                                                                               | Hard       | C, PHP, JavaScript, SQL, CSS, and HTML |
-
 ## GIS Programming with Python
 Learn how to write scripts to perform GIS analyses and automate repetetive tasks with Python.
 
@@ -62,6 +65,10 @@ Learn how to write scripts to perform GIS analyses and automate repetetive tasks
 | Course                                                                                             | Difficulty                                                        | GIS Software |
 |----------------------------------------------------------------------------------------------------|---------------------------------------------------------------------|------------|
 | [GEOG 489: Advanced Python Programming for GIS](https://www.e-education.psu.edu/geog489/node/1776) | Medium  | ArcPy, Jupyter Notebook, Esri ArcGIS API for Python, QGIS, GDAL/OGR    |
+
+##### Readings (Optional)
+- [Python Scripting for ArcGIS](https://esripress.esri.com/display/index.cfm?fuseaction=display&websiteID=276&moduleID=0) (ESRI)
+- [Geoprocessing with Python](https://www.manning.com/books/geoprocessing-with-python) (Open Source)
 
 ## Databases & SQL
 Learn how to query data, make tables and views, and perform data analysis with databases.
@@ -80,6 +87,15 @@ Learn how to store GIS data and manipulate it in a database.
 | [GEOG 868 - Spatial Database Management](https://www.e-education.psu.edu/spatialdb/node/1776)                                           | Medium | PostgreSQL / PostGIS      |
 | [Boundless - Intro to PostGIS](https://web.archive.org/web/20170913113658/http://workshops.boundlessgeo.com/postgis-intro/welcome.html) | Medium | PostgreSQL / PostGIS      |
 | [CS145: Data Management and Data Systems](https://cs145-fa18.github.io/course_info.html)                                                | Hard      | Google BigQuery       |
+
+## Version Control
+Learn how to manage projects using version control.
+
+| Resource (Choose one)                                      | Software | Difficulty |
+|------------------------------------------------------------|----------|------------|
+| [Offical Documentation](https://git-scm.com/doc)           | Git      | Medium     |
+| [Offical Resources](https://try.github.io/)                | Git      | Medium     |
+| [Git Tutorial by Atlassian](https://www.atlassian.com/git) | Git      | Medium     |
 
 ## Web Development Fundamentals
 Learn the basics of web development. It's very important to do this before trying to jump into web GIS.
