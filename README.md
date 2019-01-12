@@ -19,6 +19,7 @@
 - [Web Development Fundamentals](#web-development-fundamentals)
 - [Web GIS](#web-gis)
 - [Front End Libraries](#front-end-libraries)
+- [Backend Web Development](#backend-web-development)
 
 ## Intro
 This repository lays out a path to take someone with no GIS experience to a proficient GIS Developer. The sections are organized by skill level and meant to be progressed through subsequentially. This was highly inspired by [Open Source Society University](https://github.com/ossu/computer-science#introduction-to-computer-science).
@@ -91,6 +92,9 @@ Learn how to query data, make tables and views, and perform data analysis with d
 | [Stanford - Introduction to Databases](https://lagunita.stanford.edu/courses/DB/2014/SelfPaced/about) | Hard                                          | Unknown       |
 | [CS145: Data Management and Data Systems](https://cs145-fa18.github.io/course_info.html)              | Hard                                  | Google BigQuery       |
 
+##### Additional Tutorial
+- [SqlAlchemy Tutorial](https://docs.sqlalchemy.org/en/latest/orm/tutorial.html)
+
 ## Spatial SQL
 Learn how to store GIS data and manipulate it in a database.
 
@@ -99,6 +103,9 @@ Learn how to store GIS data and manipulate it in a database.
 | [GEOG 868 - Spatial Database Management](https://www.e-education.psu.edu/spatialdb/node/1776)                                           | Medium | PostgreSQL / PostGIS      |
 | [Boundless - Intro to PostGIS](https://web.archive.org/web/20170913113658/http://workshops.boundlessgeo.com/postgis-intro/welcome.html) | Medium | PostgreSQL / PostGIS      |
 | [CS145: Data Management and Data Systems](https://cs145-fa18.github.io/course_info.html)                                                | Hard      | Google BigQuery       |
+
+##### Reading (Optional)
+- [GeoAlchemy Documentation](https://geoalchemy-2.readthedocs.io/en/latest/)
 
 ## Version Control
 Learn how to manage projects using version control.
@@ -149,3 +156,18 @@ Learn how to make modern web applications using front end libraries.
 | [Tyler Mcginnis: Free Online React BootCamp](https://tylermcginnis.com/free-react-bootcamp/)                                            | Medium               | React     |
 | [Maximilian Schwarzmüller: Angular 7 (formerly Angular 2) - The Complete Guide](https://www.udemy.com/the-complete-guide-to-angular-2/) ($10, search for coupon) | Hard             | Angular       |
 | [Maximilian Schwarzmüller: Vue JS 2 - The Complete Guide](https://www.udemy.com/vuejs-2-the-complete-guide/) ($10, search for coupon)                           | Easy                 | Vue       |
+
+Front end development is such a broad topic that I'm just going to link to the brilliant frontend section of the [2018 Web Developer Roadmap](https://codeburst.io/the-2018-web-developer-roadmap-826b1b806e8d). You will have picked up most of these skills already by now but getting comfortable with package managers, build tools, state management, CSS preprocessors, and front end testing will put you at a great place for front end development.
+
+## Backend Web Development
+Learn how to serve data to a client with a backend server. Backend GIS development is pretty much exclusively done in .Net Core (C#). There are some GIS Flask (Python) and Java applications, but C# definitely casts the widest net.
+
+Backend development is such a broad topic that I'm just going to link to the brilliant backend section of the [2018 Web Developer Roadmap](https://codeburst.io/the-2018-web-developer-roadmap-826b1b806e8d). 
+
+##### Additional Tutorials
+- [GeoDjango Tutorial](https://docs.djangoproject.com/en/2.1/ref/contrib/gis/tutorial/) (Python)
+- [Make a Location-Based Web App With Django and GeoDjango](https://realpython.com/location-based-app-with-geodjango-tutorial/) (Python)
+- [Geospatial for Java](http://docs.geotools.org/stable/tutorials/) (Java)
+- [Hibernate Spatial](http://www.hibernatespatial.org/documentation/02-Tutorial/01-tutorial4/) (Java)
+- [Proj4J Tutorial](https://trac.osgeo.org/proj4j/) (Java)
+- [JTS Topology Suite](http://www.tsusiatsoftware.net/jts/main.html) (Java)
