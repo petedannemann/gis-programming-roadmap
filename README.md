@@ -78,6 +78,7 @@ Learn how to write scripts to perform GIS analyses and automate repetetive tasks
 
 ##### Recommended Additional Courses
 - [GEOG 489: Advanced Python Programming for GIS](https://www.e-education.psu.edu/geog489/node/1776)
+- [Geographic Data Science](http://darribas.org/gds18/)
 - [Python for GIS Progression Path](https://github.com/AlexArcPy/python-for-gis-progression-path)
 
 ##### Readings (Optional)
