@@ -13,7 +13,7 @@
 - [Intro to CS](#intro-to-cs)
 - [Data Analysis with Python](#data-analysis-with-python)
 - [GIS Programming with Python](#gis-programming-with-python)
-- [Databases](#databases-&-sql)
+- [Databases](#databases)
 - [Spatial SQL](#spatial-sql)
 - [Version Control](#version-control)
 - [Web Development Fundamentals](#web-development-fundamentals)
