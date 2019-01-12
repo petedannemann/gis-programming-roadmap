@@ -115,10 +115,11 @@ Learn the basics of web development. It's very important to do this before tryin
 | Courses (Choose one)                                                                                                            | Difficulty                             | Languages |
 |---------------------------------------------------------------------------------------------------------------------------------|---------------------------------------|------------|
 | [CS50: Web Programming with Python and JavaScript](https://www.edx.org/course/cs50s-web-programming-with-python-and-javascript) |  Medium     | Python, HTML, CSS, Javascript, SQL        |
-| [Colt Steele's Web Developer Bootcamp](https://www.udemy.com/the-web-developer-bootcamp/)                                       | Medium     | Node.js, HTML, CSS, Javascript, NoSQL     |
+| [Colt Steele's Web Developer Bootcamp](https://www.udemy.com/the-web-developer-bootcamp/) ($10, search for coupon)                                      | Medium     | Node.js, HTML, CSS, Javascript, NoSQL     |
 | [The Odin Project](https://www.theodinproject.com/)                                                                             | Medium     | Ruby, HTML, CSS, Javascript               |
 
 ##### Recommended Additional Course
+- [Colt Steele's Advanced Web Developer Bootcamp](https://www.udemy.com/the-advanced-web-developer-bootcamp/) ($10, search for coupon)
 
 ## Web GIS
 Learn how to add maps to your web applications.
@@ -146,5 +147,5 @@ Learn how to make modern web applications using front end libraries.
 | Courses (Choose one)                                                                                                                    | Difficulty | Framework / Library |
 |-----------------------------------------------------------------------------------------------------------------------------------------|---------------------|------------|
 | [Tyler Mcginnis: Free Online React BootCamp](https://tylermcginnis.com/free-react-bootcamp/)                                            | Medium               | React     |
-| [Maximilian Schwarzmüller: Angular 7 (formerly Angular 2) - The Complete Guide](https://www.udemy.com/the-complete-guide-to-angular-2/) | Hard             | Angular       |
-| [Maximilian Schwarzmüller: Vue JS 2 - The Complete Guide](https://www.udemy.com/vuejs-2-the-complete-guide/)                            | Easy                 | Vue       |
+| [Maximilian Schwarzmüller: Angular 7 (formerly Angular 2) - The Complete Guide](https://www.udemy.com/the-complete-guide-to-angular-2/) ($10, search for coupon) | Hard             | Angular       |
+| [Maximilian Schwarzmüller: Vue JS 2 - The Complete Guide](https://www.udemy.com/vuejs-2-the-complete-guide/) ($10, search for coupon)                           | Easy                 | Vue       |
