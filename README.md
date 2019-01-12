@@ -13,7 +13,7 @@
 - [Intro to CS](#intro-to-cs)
 - [Data Analysis with Python](#data-analysis-with-python)
 - [GIS Programming with Python](#gis-programming-with-python)
-- [Databases & SQL](#databases-&-sql)
+- [Databases](#databases-&-sql)
 - [Spatial SQL](#spatial-sql)
 - [Version Control](#version-control)
 - [Web Development Fundamentals](#web-development-fundamentals)
@@ -84,7 +84,7 @@ Learn how to write scripts to perform GIS analyses and automate repetetive tasks
 - [Python Scripting for ArcGIS](https://esripress.esri.com/display/index.cfm?fuseaction=display&websiteID=276&moduleID=0) (ESRI)
 - [Geoprocessing with Python](https://www.manning.com/books/geoprocessing-with-python) (Open Source)
 
-## Databases & SQL
+## Databases
 Learn how to query data, make tables and views, and perform data analysis with databases.
 
 | Courses (Choose one)                                                                                  | Difficulty                                  | Database Engine |
