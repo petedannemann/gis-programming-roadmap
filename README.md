@@ -14,6 +14,7 @@
 - [GIS Programming with Python](#gis-programming-with-python)
 - [Databases & SQL](#databases-&-sql)
 - [Spatial SQL](#spatial-sql)
+- [Web Development Fundamentals](#web-development-fundamentals)
 
 ## Intro
 This repository compiles resources that will take a motivated user from GIS noob to a proficient GIS Developer. The sections articles are organized by skill level and meant to be progressed through subsequentially. This was highly inspired by [Open Source Society University](https://github.com/ossu/computer-science#introduction-to-computer-science).
@@ -77,3 +78,17 @@ Learn how to store GIS data and manipulate it in a database.
 | [GEOG 868 - Spatial Database Management](https://www.e-education.psu.edu/spatialdb/node/1776)                                           | Medium | PostgreSQL / PostGIS      |
 | [Boundless - Intro to PostGIS](https://web.archive.org/web/20170913113658/http://workshops.boundlessgeo.com/postgis-intro/welcome.html) | Medium | PostgreSQL / PostGIS      |
 | [CS145: Data Management and Data Systems](https://cs145-fa18.github.io/course_info.html)                                                | Hard      | Google BigQuery       |
+
+## Web Development Fundamentals
+Learn the basics of web development. It's very important to do this before trying to jump into web GIS.
+
+| Courses (Choose one)                                                                                                            | Languages                             | Difficulty |
+|---------------------------------------------------------------------------------------------------------------------------------|---------------------------------------|------------|
+| [CS50: Web Programming with Python and JavaScript](https://www.edx.org/course/cs50s-web-programming-with-python-and-javascript) | Python, HTML, CSS, Javascript, SQL    | Medium     |
+| [Colt Steele's Web Developer Bootcamp](https://www.udemy.com/the-web-developer-bootcamp/)                                       | Node.js, HTML, CSS, Javascript, NoSQL | Medium     |
+| [The Odin Project](https://www.theodinproject.com/)                                                                             | Ruby, HTML, CSS, Javascript           | Medium     |
+
+##### Recommended - Continuation of Colt Steele's Web Developer Bootcamp
+| Courses (Choose one)                                                                                        | Languages                                  | Difficulty |
+|-------------------------------------------------------------------------------------------------------------|--------------------------------------------|------------|
+| [Colt Steele's Advanced Web Developer Bootcamp](https://www.udemy.com/the-advanced-web-developer-bootcamp/) | Javascript, NoSQL (MongoDB), React / Redux | Medium     |
