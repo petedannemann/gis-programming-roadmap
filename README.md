@@ -150,6 +150,7 @@ Learn how to add maps to your web applications.
 ##### Reading (Required)
 - [ArcGIS REST API Documentation](https://developers.arcgis.com/documentation/core-concepts/rest-api/)
 - [ArcGIS: Publishing a map service](http://enterprise.arcgis.com/en/server/latest/get-started/windows/tutorial-publishing-a-map-service.htm)
+- [Python - Update Hosted Feature Service](https://github.com/arcpy/update-hosted-feature-service)
 
 ## Front End Libraries
 Learn how to make modern web applications using front end libraries.
