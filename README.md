@@ -121,7 +121,7 @@ Learn the basics of web development. It's very important to do this before tryin
 | [The Odin Project](https://www.theodinproject.com/)                                                                             | Medium     | Ruby, HTML, CSS, Javascript               |
 
 ##### Recommended - Continuation of Colt Steele's Web Developer Bootcamp
-| Courses (Choose one)                                                                                        | Languages                                  | Difficulty |
+| Courses (Choose one)                                                                                        | Difficulty                                  | Languages |
 |-------------------------------------------------------------------------------------------------------------|--------------------------------------------|------------|
 | [Colt Steele's Advanced Web Developer Bootcamp](https://www.udemy.com/the-advanced-web-developer-bootcamp/) | Medium | Javascript, NoSQL (MongoDB), React / Redux     |
 
