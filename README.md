@@ -16,6 +16,7 @@
 - [Spatial SQL](#spatial-sql)
 - [Web Development Fundamentals](#web-development-fundamentals)
 - [Web GIS](#web-gis)
+- [Front End Libraries / Frameworks](#front-end-libraries-/-frameworks)
 
 ## Intro
 This repository compiles resources that will take a motivated user from GIS noob to a proficient GIS Developer. The sections articles are organized by skill level and meant to be progressed through subsequentially. This was highly inspired by [Open Source Society University](https://github.com/ossu/computer-science#introduction-to-computer-science).
@@ -101,3 +102,12 @@ Learn how to add maps to your web applications.
 |--------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|------------|
 | [GEOG 863 - Web Application Development for Geospatial Professionals](https://www.e-education.psu.edu/geog863/node/1776) | HTML, CSS, Javascript, ArcGIS Javascript API  | Easy       |
 | [GEOG 585: Open Web Mapping](https://www.e-education.psu.edu/geog585/node/508)                                           | QGIS, GDAL, OGR, GeoServer, TileMill, Leaflet | Medium     |
+
+## Front End Libraries / Frameworks
+Learn how to make modern web applications using front end libraries.
+
+| Courses (Choose one)                                                                                                                    | Framework / Library | Difficulty |
+|-----------------------------------------------------------------------------------------------------------------------------------------|---------------------|------------|
+| [Tyler Mcginnis: Free Online React BootCamp](https://tylermcginnis.com/free-react-bootcamp/)                                            | React               | Medium     |
+| [Maximilian Schwarzmüller: Angular 7 (formerly Angular 2) - The Complete Guide](https://www.udemy.com/the-complete-guide-to-angular-2/) | Angular             | Hard       |
+| [Maximilian Schwarzmüller: Vue JS 2 - The Complete Guide](https://www.udemy.com/vuejs-2-the-complete-guide/)                            | Vue                 | Easy       |
