@@ -11,6 +11,7 @@
 - [Intro](#intro)
 - [GIS Fundamentals](#gis-fundamentals)
 - [Intro to CS](#intro-to-cs)
+- [Data Analysis with Python](#data-analysis-with-python)
 - [GIS Programming with Python](#gis-programming-with-python)
 - [Databases & SQL](#databases-&-sql)
 - [Spatial SQL](#spatial-sql)
@@ -53,6 +54,18 @@ Learn basics of programming. How much you enjoy one of these courses may be a go
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|----------------------------------------|
 | [Introduction to Computer Science and Programming using Python](https://www.edx.org/course/introduction-to-computer-science-and-programming-using-python-0) | Medium     | Python                                 |
 | [CS50: Introduction to Computer Science](https://online-learning.harvard.edu/course/cs50-introduction-computer-science)                                                                               | Hard       | C, PHP, JavaScript, SQL, CSS, and HTML |
+
+## Data Analysis with Python
+Learn how to use popular data analysis libraries in Python such as Numpy and Pandas. I'm listing quite a few paid options here because they are of very high quality and are interactive.
+
+| Resource (Choose one)                                                                                         | Difficulty |
+|---------------------------------------------------------------------------------------------------------------|------------|
+| [Brandon Rhoades Pandas Tutorial](https://www.youtube.com/watch?v=5JnMutdy6Fw&feature=youtu.be)               | Medium     |
+| [Python for Data Analysis](https://www.amazon.com/Python-Data-Analysis-Wrangling-IPython/dp/1449319793) ($28) | Medium     |
+| [Dataquest](https://www.dataquest.io/) ($23 - $50 / month)                                                    | Medium     |
+| [Data Camp](https://www.datacamp.com/) ($25 - $30 / month                                                     | Medium     |
+| [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)                          | Medium     |
+
 ## GIS Programming with Python
 Learn how to write scripts to perform GIS analyses and automate repetetive tasks with Python.
 
