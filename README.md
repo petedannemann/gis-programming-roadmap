@@ -45,7 +45,7 @@ The most commonly used open source desktop software. It is free to download and 
 | [Official QGIS Tutorial](https://docs.qgis.org/2.8/en/docs/training_manual/foreword/index.html)                          | Easy       | QGIS         |
 
 ##### Reading (Optional)
-[GIS Fundamentals: GIS Fundamentals: A First Text on Geographic Information Systems](https://www.amazon.com/GIS-Fundamentals-Geographic-Information-Systems/dp/0971764735)
+- [GIS Fundamentals: GIS Fundamentals: A First Text on Geographic Information Systems](https://www.amazon.com/GIS-Fundamentals-Geographic-Information-Systems/dp/0971764735)
 
 ## Intro to CS
 Learn basics of programming. How much you enjoy one of these courses may be a good indicator of your success in programming.
@@ -75,10 +75,8 @@ Learn how to write scripts to perform GIS analyses and automate repetetive tasks
 | [GEOG 485: GIS Programming and Software Development](https://www.e-education.psu.edu/geog485/node/91) | Medium                | ArcGIS / ArcPy     |
 | [Automating GIS Processes](https://automating-gis-processes.github.io/2018/)                         | Medium | GDAL, OGR, GeoPandas, Shapely, QGIS     |
 
-##### Recommended - Continuation of GIS 485 
-| Course                                                                                             | Difficulty                                                        | GIS Software |
-|----------------------------------------------------------------------------------------------------|---------------------------------------------------------------------|------------|
-| [GEOG 489: Advanced Python Programming for GIS](https://www.e-education.psu.edu/geog489/node/1776) | Medium  | ArcPy, Jupyter Notebook, Esri ArcGIS API for Python, QGIS, GDAL/OGR    |
+##### Recommended Additional Course
+- [GEOG 489: Advanced Python Programming for GIS](https://www.e-education.psu.edu/geog489/node/1776)
 
 ##### Readings (Optional)
 - [Python Scripting for ArcGIS](https://esripress.esri.com/display/index.cfm?fuseaction=display&websiteID=276&moduleID=0) (ESRI)
@@ -120,10 +118,7 @@ Learn the basics of web development. It's very important to do this before tryin
 | [Colt Steele's Web Developer Bootcamp](https://www.udemy.com/the-web-developer-bootcamp/)                                       | Medium     | Node.js, HTML, CSS, Javascript, NoSQL     |
 | [The Odin Project](https://www.theodinproject.com/)                                                                             | Medium     | Ruby, HTML, CSS, Javascript               |
 
-##### Recommended - Continuation of Colt Steele's Web Developer Bootcamp
-| Courses (Choose one)                                                                                        | Difficulty                                  | Languages |
-|-------------------------------------------------------------------------------------------------------------|--------------------------------------------|------------|
-| [Colt Steele's Advanced Web Developer Bootcamp](https://www.udemy.com/the-advanced-web-developer-bootcamp/) | Medium | Javascript, NoSQL (MongoDB), React / Redux     |
+##### Recommended Additional Course
 
 ## Web GIS
 Learn how to add maps to your web applications.
@@ -132,7 +127,7 @@ Learn how to add maps to your web applications.
 |--------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|--------------------------------------------------|
 | [GEOG 863 - Web Application Development for Geospatial Professionals](https://www.e-education.psu.edu/geog863/node/1776) | Easy                                           | HTML, CSS, Javascript, ArcGIS Javascript API    |
 | [GEOG 585: Open Web Mapping](https://www.e-education.psu.edu/geog585/node/508)                                           | Medium                                        | QGIS, GDAL, OGR, GeoServer, TileMill, Leaflet    |
-##### Recommend Course
+##### Recommended Additional Course
 - [GEOG 865: Cloud and Server GIS](https://www.e-education.psu.edu/geog865/node/25) - Requires an ArcGIS Enterprise Account and an active credit card to register for AWS free tier.
 
 ##### Additional Tutorials
