@@ -130,14 +130,14 @@ Learn how to add maps to your web applications.
 
 | Courses (Do both)                                                                                                        | Difficulty                        | Languages / Frameworks  |
 |--------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|--------------------------------------------------|
-| [GEOG 863 - Web Application Development for Geospatial Professionals](https://www.e-education.psu.edu/geog863/node/1776) | HTML, CSS, Javascript, ArcGIS Javascript API                                           | Easy    |
-| [GEOG 585: Open Web Mapping](https://www.e-education.psu.edu/geog585/node/508)                                           | QGIS, GDAL, OGR, GeoServer, TileMill, Leaflet                                        |  Medium   |
+| [GEOG 863 - Web Application Development for Geospatial Professionals](https://www.e-education.psu.edu/geog863/node/1776) | Easy                                           | HTML, CSS, Javascript, ArcGIS Javascript API    |
+| [GEOG 585: Open Web Mapping](https://www.e-education.psu.edu/geog585/node/508)                                           | Medium                                        | QGIS, GDAL, OGR, GeoServer, TileMill, Leaflet    |
 
 ## Front End Libraries
 Learn how to make modern web applications using front end libraries.
 
-| Courses (Choose one)                                                                                                                    | Framework / Library | Difficulty |
+| Courses (Choose one)                                                                                                                    | Difficulty | Framework / Library |
 |-----------------------------------------------------------------------------------------------------------------------------------------|---------------------|------------|
-| [Tyler Mcginnis: Free Online React BootCamp](https://tylermcginnis.com/free-react-bootcamp/)                                            | React               | Medium     |
-| [Maximilian Schwarzmüller: Angular 7 (formerly Angular 2) - The Complete Guide](https://www.udemy.com/the-complete-guide-to-angular-2/) | Angular             | Hard       |
-| [Maximilian Schwarzmüller: Vue JS 2 - The Complete Guide](https://www.udemy.com/vuejs-2-the-complete-guide/)                            | Vue                 | Easy       |
+| [Tyler Mcginnis: Free Online React BootCamp](https://tylermcginnis.com/free-react-bootcamp/)                                            | Medium               | React     |
+| [Maximilian Schwarzmüller: Angular 7 (formerly Angular 2) - The Complete Guide](https://www.udemy.com/the-complete-guide-to-angular-2/) | Hard             | Angular       |
+| [Maximilian Schwarzmüller: Vue JS 2 - The Complete Guide](https://www.udemy.com/vuejs-2-the-complete-guide/)                            | Easy                 | Vue       |
