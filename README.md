@@ -23,7 +23,7 @@
 - [Backend Web Development](#backend-web-development)
 
 ## Intro
-This repository lays out a path to take someone with no GIS experience to a proficient GIS Developer. The sections are organized by skill level and meant to be progressed through subsequentially. This was highly inspired by [Open Source Society University](https://github.com/ossu/computer-science#introduction-to-computer-science).
+This repository lays out a path to take someone with no GIS experience to a proficient GIS Developer. The sections are organized by skill level and meant to be progressed through sequentially. This was highly inspired by [Open Source Society University](https://github.com/ossu/computer-science#introduction-to-computer-science).
 
 Resources mostly come from highly effective and free courses as well as blog posts and tutorials. There is a mixture of proprietary (ESRI) and open-source materials.
 
@@ -123,10 +123,10 @@ Learn how to manage projects using version control.
 ## ETL
 Learn how to extract, transform, and load data.
 
-| Courses                                                                                            | Skill Taught                              | Difficulty |
+| Courses                                                                                            | Difficulty                             | Skill Taught  |
 |----------------------------------------------------------------------------------------------------|-------------------------------------------|------------|
-| [Dataquest Data Engineer Path](https://www.dataquest.io/path/data-engineer) ($24.50 - $50 / month) | Database Optimizing, ETL, Task Management | Hard       |
-| [FME Workbench Tutorials](https://knowledge.safe.com/page/tutorials)                               | FME, Spatial ETL                          | Medium     |
+| [Dataquest Data Engineer Path](https://www.dataquest.io/path/data-engineer) ($24.50 - $50 / month) | Hard | Database Optimizing, ETL, Task Management       |
+| [FME Workbench Tutorials](https://knowledge.safe.com/page/tutorials)                               | Medium                          | FME, Spatial ETL      |
 
 ##### Additional Resources
 - [Petl Documentation](https://petl.readthedocs.io/en/stable/)
