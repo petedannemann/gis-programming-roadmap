@@ -43,6 +43,7 @@ The most commonly used open source desktop software. It is free to download and 
 
 | Courses (Choose one)                                                                                                     | Difficulty | GIS Software |
 |--------------------------------------------------------------------------------------------------------------------------|------------|--------------|
+| [Coursera GIS Specialization](https://www.coursera.org/specializations/gis) | Easy | ArcPro|
 | [Getting to Know ArcPro](https://esripress.esri.com/display/index.cfm?fuseaction=display&websiteID=229&moduleID=0) ($40) | Easy       | ArcPro       |
 | [Official QGIS Tutorial](https://docs.qgis.org/2.8/en/docs/training_manual/foreword/index.html)                          | Easy       | QGIS         |
 
@@ -81,6 +82,7 @@ Learn how to write scripts to perform GIS analyses and automate repetetive tasks
 - [GEOG 489: Advanced Python Programming for GIS](https://www.e-education.psu.edu/geog489/node/1776)
 - [Geographic Data Science](http://darribas.org/gds18/)
 - [Python for GIS Progression Path](https://github.com/AlexArcPy/python-for-gis-progression-path)
+- [Coursera: Spatial Data Science and Applications](https://www.coursera.org/learn/spatial-data-science)
 
 ##### Readings (Optional)
 - [Python Scripting for ArcGIS](https://esripress.esri.com/display/index.cfm?fuseaction=display&websiteID=276&moduleID=0) (ESRI)
