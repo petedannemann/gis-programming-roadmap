@@ -41,11 +41,15 @@ ArcMap and ArcPro are proprietary desktop software for performing GIS analysis d
 ##### QGIS
 The most commonly used open source desktop software. It is free to download and has a wide array of plugins that let you do just about anything with GIS.
 
+<center>
+  
 | Courses (Choose one)                                                                                                     | Difficulty | GIS Software |
 |--------------------------------------------------------------------------------------------------------------------------|------------|--------------|
 | [Coursera GIS Specialization](https://www.coursera.org/specializations/gis) | Easy | ArcPro|
 | [Getting to Know ArcPro](https://esripress.esri.com/display/index.cfm?fuseaction=display&websiteID=229&moduleID=0) ($40) | Easy       | ArcPro       |
 | [Official QGIS Tutorial](https://docs.qgis.org/2.8/en/docs/training_manual/foreword/index.html)                          | Easy       | QGIS         |
+
+</center>
 
 ##### Reading (Optional)
 - [GIS Fundamentals: GIS Fundamentals: A First Text on Geographic Information Systems](https://www.amazon.com/GIS-Fundamentals-Geographic-Information-Systems/dp/0971764735)
@@ -53,14 +57,20 @@ The most commonly used open source desktop software. It is free to download and 
 ## Intro to CS
 Learn basics of programming. How much you enjoy one of these courses may be a good indicator of your success in programming.
 
+<center>
+  
 | Courses (Choose One)                                                                                                                                        | Difficulty | Languages                              |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|----------------------------------------|
 | [Introduction to Computer Science and Programming using Python](https://www.edx.org/course/introduction-to-computer-science-and-programming-using-python-0) | Medium     | Python                                 |
 | [CS50: Introduction to Computer Science](https://online-learning.harvard.edu/course/cs50-introduction-computer-science)                                                                               | Hard       | C, PHP, JavaScript, SQL, CSS, and HTML |
 
+</center>
+  
 ## Data Analysis with Python
 Learn how to use popular data analysis libraries in Python such as Numpy and Pandas. I'm listing quite a few paid options here because they are of very high quality and are interactive.
 
+<center>
+  
 | Resource (Choose one)                                                                                         | Difficulty |
 |---------------------------------------------------------------------------------------------------------------|------------|
 | [Geo Python](https://geo-python.github.io/2018/)                                                              | Medium     |
@@ -70,14 +80,20 @@ Learn how to use popular data analysis libraries in Python such as Numpy and Pan
 | [Data Camp](https://www.datacamp.com/) ($25 - $30 / month)                                                    | Medium     |
 | [Brandon Rhoades Pandas Tutorial](https://www.youtube.com/watch?v=5JnMutdy6Fw&feature=youtu.be)               | Medium     |
 
+</center>
+
 ## GIS Programming with Python
 Learn how to write scripts to perform GIS analyses and automate repetetive tasks with Python.
 
+<center>
+  
 | Courses (Choose One)                                                                                  | Difficulty                        | GIS Software |
 |-------------------------------------------------------------------------------------------------------|-------------------------------------|------------|
 | [GEOG 485: GIS Programming and Software Development](https://www.e-education.psu.edu/geog485/node/91) | Medium                | ArcGIS / ArcPy     |
 | [Automating GIS Processes](https://automating-gis-processes.github.io/2018/)                         | Medium | GDAL, OGR, GeoPandas, Shapely, QGIS     |
 
+</center>
+  
 ##### Recommended Additional Courses
 - [GEOG 489: Advanced Python Programming for GIS](https://www.e-education.psu.edu/geog489/node/1776)
 - [Geographic Data Science](http://darribas.org/gds18/)
@@ -92,11 +108,15 @@ Learn how to write scripts to perform GIS analyses and automate repetetive tasks
 ## Databases
 Learn how to query data, make tables and views, and perform data analysis with databases.
 
+<center>
+  
 | Courses (Choose one)                                                                                  | Difficulty                                  | Database Engine |
 |-------------------------------------------------------------------------------------------------------|--------------------------------------------------|------------|
 | [SQL Zoo](https://sqlzoo.net/)                                                                        | Medium | SQL Server, Oracle, MySQL, DB2,  and  PostgreSQL     |
 | [Stanford - Introduction to Databases](https://lagunita.stanford.edu/courses/DB/2014/SelfPaced/about) | Hard                                          | Unknown       |
 | [CS145: Data Management and Data Systems](https://cs145-fa18.github.io/course_info.html)              | Hard                                  | Google BigQuery       |
+
+</center>
 
 ##### Additional Tutorial
 - [SqlAlchemy Tutorial](https://docs.sqlalchemy.org/en/latest/orm/tutorial.html)
@@ -104,11 +124,15 @@ Learn how to query data, make tables and views, and perform data analysis with d
 ## Spatial SQL
 Learn how to store GIS data and manipulate it in a database.
 
+<center>
+  
 | Courses (Choose one)                                                                                                                    | Difficulty      | Database Engine |
 |-----------------------------------------------------------------------------------------------------------------------------------------|----------------------|------------|
 | [GEOG 868 - Spatial Database Management](https://www.e-education.psu.edu/spatialdb/node/1776)                                           | Medium | PostgreSQL / PostGIS      |
 | [Boundless - Intro to PostGIS](https://web.archive.org/web/20170913113658/http://workshops.boundlessgeo.com/postgis-intro/welcome.html) | Medium | PostgreSQL / PostGIS      |
 | [CS145: Data Management and Data Systems](https://cs145-fa18.github.io/course_info.html)                                                | Hard      | Google BigQuery       |
+
+</center>
 
 ##### Reading (Optional)
 - [GeoAlchemy Documentation](https://geoalchemy-2.readthedocs.io/en/latest/)
@@ -116,19 +140,27 @@ Learn how to store GIS data and manipulate it in a database.
 ## Version Control
 Learn how to manage projects using version control.
 
+<center>
+
 | Resource (Choose one)                                      | Difficulty | Software   |
 |------------------------------------------------------------|------------|------------|
 | [Git Documentation](https://git-scm.com/doc)           | Medium     | Git        |
 | [Git Offical Resources](https://try.github.io/)                | Medium     | Git        |
 | [Git Tutorial by Atlassian](https://www.atlassian.com/git) | Medium     | Git        |
 
+</center>
+
 ## ETL
 Learn how to extract, transform, and load data.
 
+<center>
+  
 | Courses                                                                                            | Difficulty                             | Skill Taught  |
 |----------------------------------------------------------------------------------------------------|-------------------------------------------|------------|
 | [Dataquest Data Engineer Path](https://www.dataquest.io/path/data-engineer) ($24.50 - $50 / month) | Hard | Database Optimizing, ETL, Task Management       |
 | [FME Workbench Tutorials](https://knowledge.safe.com/page/tutorials)                               | Medium                          | FME, Spatial ETL      |
+
+</center>
 
 ##### Additional Resources
 - [Petl Documentation](https://petl.readthedocs.io/en/stable/)
@@ -143,11 +175,15 @@ Learn how to extract, transform, and load data.
 ## Web Development Fundamentals
 Learn the basics of web development. It's very important to do this before trying to jump into web GIS.
 
+<center>
+
 | Courses (Choose one)                                                                                                            | Difficulty                             | Languages |
 |---------------------------------------------------------------------------------------------------------------------------------|---------------------------------------|------------|
 | [CS50: Web Programming with Python and JavaScript](https://www.edx.org/course/cs50s-web-programming-with-python-and-javascript) |  Medium     | Python, HTML, CSS, Javascript, SQL        |
 | [Colt Steele's Web Developer Bootcamp](https://www.udemy.com/the-web-developer-bootcamp/) ($10, search for coupon)                                      | Medium     | Node.js, HTML, CSS, Javascript, NoSQL     |
 | [The Odin Project](https://www.theodinproject.com/)                                                                             | Medium     | Ruby, HTML, CSS, Javascript               |
+
+</center>
 
 ##### Recommended Additional Course
 - [Colt Steele's Advanced Web Developer Bootcamp](https://www.udemy.com/the-advanced-web-developer-bootcamp/) ($10, search for coupon)
@@ -155,10 +191,15 @@ Learn the basics of web development. It's very important to do this before tryin
 ## Web GIS
 Learn how to add maps to your web applications.
 
+<center>
+
 | Courses (Do both)                                                                                                        | Difficulty                        | Languages / Frameworks  |
 |--------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|--------------------------------------------------|
 | [GEOG 863 - Web Application Development for Geospatial Professionals](https://www.e-education.psu.edu/geog863/node/1776) | Easy                                           | HTML, CSS, Javascript, ArcGIS Javascript API    |
 | [GEOG 585: Open Web Mapping](https://www.e-education.psu.edu/geog585/node/508)                                           | Medium                                        | QGIS, GDAL, OGR, GeoServer, TileMill, Leaflet    |
+
+</center>
+  
 ##### Recommended Additional Course
 - [GEOG 865: Cloud and Server GIS](https://www.e-education.psu.edu/geog865/node/25) - Requires an ArcGIS Enterprise Account and an active credit card to register for AWS free tier.
 
@@ -176,11 +217,15 @@ Learn how to add maps to your web applications.
 ## Front End Libraries
 Learn how to make modern web applications using front end libraries.
 
+<center>
+
 | Courses (Choose one)                                                                                                                    | Difficulty | Framework / Library |
 |-----------------------------------------------------------------------------------------------------------------------------------------|---------------------|------------|
 | [Tyler Mcginnis: Free Online React BootCamp](https://tylermcginnis.com/free-react-bootcamp/)                                            | Medium               | React     |
 | [Maximilian Schwarzmüller: Angular 7 (formerly Angular 2) - The Complete Guide](https://www.udemy.com/the-complete-guide-to-angular-2/) ($10, search for coupon) | Hard             | Angular       |
 | [Maximilian Schwarzmüller: Vue JS 2 - The Complete Guide](https://www.udemy.com/vuejs-2-the-complete-guide/) ($10, search for coupon)                           | Easy                 | Vue       |
+
+</center>
 
 Front end development is such a broad topic that I'm just going to link to the brilliant frontend section of the [2018 Web Developer Roadmap](https://codeburst.io/the-2018-web-developer-roadmap-826b1b806e8d). You will have picked up most of these skills already by now but getting comfortable with package managers, build tools, state management, CSS preprocessors, and front end testing will put you at a great place for front end development.
 
