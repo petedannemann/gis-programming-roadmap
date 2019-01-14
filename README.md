@@ -116,8 +116,8 @@ Learn how to manage projects using version control.
 
 | Resource (Choose one)                                      | Difficulty | Software   |
 |------------------------------------------------------------|------------|------------|
-| [Offical Documentation](https://git-scm.com/doc)           | Medium     | Git        |
-| [Offical Resources](https://try.github.io/)                | Medium     | Git        |
+| [Git Documentation](https://git-scm.com/doc)           | Medium     | Git        |
+| [Git Offical Resources](https://try.github.io/)                | Medium     | Git        |
 | [Git Tutorial by Atlassian](https://www.atlassian.com/git) | Medium     | Git        |
 
 ## ETL
