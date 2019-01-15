@@ -99,6 +99,7 @@ Learn how to write scripts to perform GIS analyses and automate repetetive tasks
 - [Geographic Data Science](http://darribas.org/gds18/)
 - [Python for GIS Progression Path](https://github.com/AlexArcPy/python-for-gis-progression-path)
 - [Coursera: Spatial Data Science and Applications](https://www.coursera.org/learn/spatial-data-science)
+- [Datacamp: Visualizing Geospatial Data in Python](https://www.datacamp.com/courses/visualizing-geospatial-data-in-python)
 
 ##### Readings (Optional)
 - [Python Scripting for ArcGIS](https://esripress.esri.com/display/index.cfm?fuseaction=display&websiteID=276&moduleID=0) (ESRI)
