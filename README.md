@@ -105,6 +105,7 @@ Learn how to write scripts to perform GIS analyses and automate repetetive tasks
 - [Python Scripting for ArcGIS](https://esripress.esri.com/display/index.cfm?fuseaction=display&websiteID=276&moduleID=0) (ESRI)
 - [Geoprocessing with Python](https://www.manning.com/books/geoprocessing-with-python) (Open Source)
 - [GeoPySpark](https://github.com/locationtech-labs/geopyspark)
+- [Introduction to Geospatial Data in Python](https://www.datacamp.com/community/tutorials/geospatial-data-python)
 
 ## Databases
 Learn how to query data, make tables and views, and perform data analysis with databases.
