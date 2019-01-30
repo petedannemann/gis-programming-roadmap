@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <strong>Under development</strong>
+  <strong>Under development!</strong>
 </p>
 
 ## Table of Contents
