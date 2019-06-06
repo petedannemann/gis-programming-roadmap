@@ -47,7 +47,7 @@ The most commonly used open source desktop software. It is free to download and 
 |--------------------------------------------------------------------------------------------------------------------------|------------|--------------|
 | [Coursera GIS Specialization](https://www.coursera.org/specializations/gis) | Easy | ArcPro|
 | [Getting to Know ArcPro](https://esripress.esri.com/display/index.cfm?fuseaction=display&websiteID=229&moduleID=0) ($40) | Easy       | ArcPro       |
-| [Official QGIS Tutorial](https://docs.qgis.org/2.8/en/docs/training_manual/foreword/index.html)                          | Easy       | QGIS         |
+| [Official QGIS Tutorial](https://docs.qgis.org/3.4/en/docs/training_manual/foreword/index.html)                          | Easy       | QGIS         |
 
 </center>
 
