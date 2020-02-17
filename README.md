@@ -73,7 +73,7 @@ Learn how to use popular data analysis libraries in Python such as Numpy and Pan
   
 | Resource (Choose one)                                                                                         | Difficulty |
 |---------------------------------------------------------------------------------------------------------------|------------|
-| [Geo Python](https://geo-python.github.io/2018/)                                                              | Medium     |
+| [Geo Python](https://geo-python.github.io/site/)                                                              | Medium     |
 | [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)                          | Medium     |
 | [Python for Data Analysis](https://www.amazon.com/Python-Data-Analysis-Wrangling-IPython/dp/1449319793) ($28) | Medium     |
 | [Dataquest](https://www.dataquest.io/) ($23 - $50 / month)                                                    | Medium     |
