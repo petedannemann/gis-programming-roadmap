@@ -131,7 +131,7 @@ Learn how to store GIS data and manipulate it in a database.
 | Courses (Choose one)                                                                                                                    | Difficulty      | Database Engine |
 |-----------------------------------------------------------------------------------------------------------------------------------------|----------------------|------------|
 | [GEOG 868 - Spatial Database Management](https://www.e-education.psu.edu/spatialdb/node/1776)                                           | Medium | PostgreSQL / PostGIS      |
-| [Boundless - Intro to PostGIS](https://web.archive.org/web/20170913113658/http://workshops.boundlessgeo.com/postgis-intro/welcome.html) | Medium | PostgreSQL / PostGIS      |
+| [Official - Intro to PostGIS](https://postgis.net/workshops/postgis-intro/) | Medium | PostgreSQL / PostGIS      |
 | [CS145: Data Management and Data Systems](https://cs145-fa18.github.io/course_info.html)                                                | Hard      | Google BigQuery       |
 
 </center>
