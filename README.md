@@ -243,3 +243,4 @@ Backend development is such a broad topic that I'm just going to link to the bri
 - [Hibernate Spatial](http://www.hibernatespatial.org/documentation/02-Tutorial/01-tutorial4/) (Java)
 - [Proj4J Tutorial](https://trac.osgeo.org/proj4j/) (Java)
 - [JTS Topology Suite](http://www.tsusiatsoftware.net/jts/main.html) (Java)
+- [Scaler Topics Tutorials](https://www.scaler.com/topics/java/) (Java)
