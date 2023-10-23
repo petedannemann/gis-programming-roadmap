@@ -63,6 +63,7 @@ Learn basics of programming. How much you enjoy one of these courses may be a go
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|----------------------------------------|
 | [Introduction to Computer Science and Programming using Python](https://www.edx.org/course/introduction-to-computer-science-and-programming-using-python-0) | Medium     | Python                                 |
 | [CS50: Introduction to Computer Science](https://online-learning.harvard.edu/course/cs50-introduction-computer-science)                                                                               | Hard       | C, PHP, JavaScript, SQL, CSS, and HTML |
+| [CS50P: Introduction to Programming with Python](https://cs50.harvard.edu/python/2022/)                               | Medium       | Python |
 
 </center>
   
