@@ -240,7 +240,7 @@ Backend development is such a broad topic that I'm just going to link to the bri
 ##### Additional Tutorials
 - [GeoDjango Tutorial](https://docs.djangoproject.com/en/2.1/ref/contrib/gis/tutorial/) (Python)
 - [Make a Location-Based Web App With Django and GeoDjango](https://realpython.com/location-based-app-with-geodjango-tutorial/) (Python)
-- [Geospatial for Java](http://docs.geotools.org/stable/tutorials/) (Java)
+- [GeoTools](https://www.geotools.org/) (Java)
 - [Hibernate ORM](https://hibernate.org/orm/) (Java)
 - [Proj4J Tutorial](https://trac.osgeo.org/proj4j/) (Java)
 - [LocationTech JTS Topology Suite](https://projects.eclipse.org/projects/locationtech.jts) (Java)
